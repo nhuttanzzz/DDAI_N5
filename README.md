@@ -7,3 +7,4 @@ https://tanphan131006.atlassian.net/browse/KAN-1
    2.24707991 Hà Anh Nguyên
    3.24662041 Nguyễn Quang Đăng
    4.24661761 Phan Nhựt Tân
+   5. 24658471 Huỳnh Nhật Minh Anh 
